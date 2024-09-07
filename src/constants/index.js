@@ -26,7 +26,7 @@ export const EDUCATION = [
     year: "2016 - 2018",
     role: " Dimploma in Computer Technology",
     company: " MSBTE",
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga culpa ratione dolor tempora perspiciatis vero iure, at consequuntur laudantium quam autem dolorum necessitatibus! Totam veritatis eos veniam deserunt quae quasi?`,
+    description: `I Completed my diploma in Bharti Vidyapith Institute of Technology kharghar navi mumbai`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   /*{
