@@ -26,8 +26,7 @@ export const EDUCATION = [
     year: "2016 - 2018",
     role: " Dimploma in Computer Technology",
     company: " MSBTE",
-    description: 'I completed my Diploma in computer science in Bharati Vidyapeeth Institute if Technology kharghar navi mumbai.`,
-    technologies: ["HTML","CSS","Android Studio"],
+    description: 'I completed my Diploma in computer science in Bharati Vidyapeeth Institute if Technology kharghar navi mumbai.`,technologies: ["HTML","CSS","Android Studio"],
   },
   /*{
     year: "2020 - 2021",
