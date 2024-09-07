@@ -19,14 +19,14 @@ export const EDUCATION = [
     year: "2018 - 2022",
     role: " B.tech in computer Engg.",
     company: " Mumbai University",
-    description: `I Completed my graduation in compputer Engineering in Jawahar Education Societys AC Patil college of Engineering navi mumbai.  `,
+    description: `I Completed my graduation in compputer Engineering in Jawahar Education Societys AC Patil college of Engineering navi mumbai.`,
     technologies: ["JAVA", "MySQL", "GIT"],
   },
   {
     year: "2016 - 2018",
     role: " Dimploma in Computer Technology",
     company: " MSBTE",
-    description: `I completed my Diploma in computer science in Bharati Vidyapeeth Institute if Technology kharghar navi mumbai. `,
+    description: `I completed my Diploma in computer science in Bharati Vidyapeeth Institute if Technology kharghar navi mumbai.`,
     technologies: ["HTML","CSS","Android Studio"],
   },
   /*{
