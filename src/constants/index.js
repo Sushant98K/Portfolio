@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Rh No. A-01, Kwality Complex , Adai Village, New Panvel, Mumbai (410206)",
+  address: "New Panvel, Mumbai (410206)",
   phoneNo: "+91 97683 68524 ",
   email: "sushant98k@gmail.com",
 };
