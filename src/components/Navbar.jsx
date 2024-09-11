@@ -13,7 +13,7 @@ const navbar = () => {
       <a href="https://www.linkedin.com/in/sushant98k/"><FaLinkedin /></a>
       <a href="https://github.com/Sushant98K"><FaGithubSquare /></a>
       <a href="https://x.com/ig_ToyBreaker?s=09"><FaSquareXTwitter /></a>
-      <a href="#"><FaSquareInstagram /></a>      
+      <a href="https://www.instagram.com/ig_toybreaker?igsh=MTJqc2VmdnYzNDVzOA=="><FaSquareInstagram /></a>      
 
     </div>
 
