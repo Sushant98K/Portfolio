@@ -22,7 +22,7 @@ Check out the live version of my portfolio here: [Portfolio Website](https://you
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/sushant98k/portfolio-website.git
    ```
 
 2. **Navigate to the project directory**:
