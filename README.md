@@ -4,6 +4,10 @@ Welcome to the **Portfolio Repository**! 🚀 This project showcases my personal
 
 ---
 
+## 🌐 Live Demo
+
+Check out the live version of my portfolio here: [Portfolio Website](https://your-portfolio-link.vercel.app) 🚀
+
 ## 🛠 Technologies Used
 
 - **React.js**: A powerful JavaScript library for building dynamic user interfaces.
@@ -37,11 +41,6 @@ Welcome to the **Portfolio Repository**! 🚀 This project showcases my personal
 
    ```bash
    npm run dev
-   ```
-
-5. **Build the project** for production:
-   ```bash
-   npm run build
    ```
 
 ---
